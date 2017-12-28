@@ -1,0 +1,10 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"postcss": true,
+		"urlCheck": false
+	}
+}
